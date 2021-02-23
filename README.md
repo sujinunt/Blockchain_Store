@@ -1,8 +1,8 @@
 # Blockchain_Store
 ### Prerequisites
 
-1.Download Ganache [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache)
-2.Open Ganache and click Quick Start for create your local Block Chain.
+1. Download Ganache [https://www.trufflesuite.com/ganache](https://www.trufflesuite.com/ganache)
+2. Open Ganache and click Quick Start for create your local Block Chain.
 
 ### Installation
 
